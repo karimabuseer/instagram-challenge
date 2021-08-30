@@ -1,5 +1,10 @@
 Instagram Challenge
 ===================
+# TO DO
+- Add username + first name/last name to user sign up and user edit
+- Write tests for nav bar
+- Fix navbar (for homepage at least)
+- Move navbar to partial and ensure that tests still pass
 
 ## Instructions
 
